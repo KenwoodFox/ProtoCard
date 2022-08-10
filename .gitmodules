@@ -1,0 +1,9 @@
+[submodule "Hardware/Buisness Card/Libraries/kenwoodfox-kicad-libraries"]
+	path = Hardware/Buisness Card/Libraries/kenwoodfox-kicad-libraries
+	url = https://github.com/KenwoodFox/kenwoodfox-kicad-libraries.git
+[submodule "Hardware/Buisness Card/Libraries/ElectronicCats-KiCad-Libraries"]
+	path = Hardware/Buisness Card/Libraries/ElectronicCats-KiCad-Libraries
+	url = https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries.git
+[submodule "Hardware/Buisness Card/Libraries/Panelization.pretty"]
+	path = Hardware/Buisness Card/Libraries/Panelization.pretty
+	url = https://github.com/madworm/Panelization.pretty.git
