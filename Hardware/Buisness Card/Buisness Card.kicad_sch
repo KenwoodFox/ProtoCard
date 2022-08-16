@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Contact Card")
+    (date "${ISSUE}")
+    (rev "${REVISION}")
+    (comment 4 "${FULL_REVISION}")
+  )
+
   (lib_symbols
     (symbol "BuisnessCardSpecial:ProtoBoard" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 3.81 8.89 0)
