@@ -455,8 +455,14 @@
     ]
   ],
   "text_variables": {
-    "FULL_REVISION": "v1.0-2-gf87380a",
-    "ISSUE": "2022-10-04",
-    "KENWOODFOX_3DMODELS": "Hardware/Buisness Card/Libraries/kenwoodfox-kicad-libraries/3d"
+    "CALLSIGN": "Y0UR",
+    "EMAIL": "YourEmail@email.com",
+    "FULL_REVISION": "v1.0-3-g16be60e",
+    "ISSUE": "2022-10-07",
+    "KENWOODFOX_3DMODELS": "Hardware/Buisness Card/Libraries/kenwoodfox-kicad-libraries/3d",
+    "NAME": "Your Name",
+    "PHONE": "+X(XXX)XXX-XXXX",
+    "REVISION": "16be60e",
+    "WEBSITE": "https://YourWebsite.net/"
   }
 }
