@@ -51,3 +51,7 @@ fp-info-cache
 
 # Secrets
 Hardware/config.kibot.yaml
+
+# CAD
+*.FCStd1
+*.stl
