@@ -7,3 +7,6 @@
 [submodule "Hardware/Buisness Card/Libraries/Panelization.pretty"]
 	path = Hardware/Buisness Card/Libraries/Panelization.pretty
 	url = https://github.com/madworm/Panelization.pretty.git
+[submodule "Firmware/bootloader/micronucleus"]
+	path = Firmware/bootloader/micronucleus
+	url = https://github.com/micronucleus/micronucleus.git
