@@ -1,4 +1,4 @@
-name: Firmware Workflow
+name: Firmware
 
 on:
   push:
@@ -39,7 +39,7 @@ jobs:
 
       - uses: actions/upload-artifact@v2
         with:
-          name: ButtonBinaries
+          name: CardBinaries
           path: Firmware/.pio/build/attiny85/firmware.*
 
   delint:

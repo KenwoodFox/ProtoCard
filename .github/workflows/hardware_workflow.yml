@@ -1,4 +1,4 @@
-name: Button Hardware
+name: KiCAD
 
 on:
   push:
@@ -14,7 +14,7 @@ on:
 jobs:
   KiCad_Hardware:
     runs-on: ubuntu-latest
-    name: SuperButton Hardware
+    name: Buisness Card Hardware
 
     strategy:
       matrix:
