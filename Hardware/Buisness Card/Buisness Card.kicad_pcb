@@ -88,15 +88,7 @@
     )
   )
 
-  (property "CALLSIGN" "Y0UR")
-  (property "EMAIL" "YourEmail@email.com")
-  (property "FULL_REVISION" "v1.0-3-g16be60e")
-  (property "ISSUE" "2022-10-07")
   (property "KENWOODFOX_3DMODELS" "Hardware/Buisness Card/Libraries/kenwoodfox-kicad-libraries/3d")
-  (property "NAME" "Your Name")
-  (property "PHONE" "+X(XXX)XXX-XXXX")
-  (property "REVISION" "16be60e")
-  (property "WEBSITE" "https://YourWebsite.net/")
 
   (net 0 "")
   (net 1 "/SDO")
