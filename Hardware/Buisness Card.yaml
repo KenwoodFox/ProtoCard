@@ -21,15 +21,15 @@ preflight:
       command: "echo 'Hardware/Buisness Card/Libraries/kenwoodfox-kicad-libraries/3d'"
       # Secrets!
     - name: "NAME"
-      command: "echo 'Your Name'"
+      command: "echo 'Joe Sedutto'"
     - name: "EMAIL"
-      command: "echo 'YourEmail@email.com'"
+      command: "echo 'kenwood364@gmail.com'"
     - name: "PHONE"
-      command: "echo '+X(XXX)XXX-XXXX'"
+      command: "echo '+1(603)545-9929'"
     - name: "WEBSITE"
-      command: "echo 'https://YourWebsite.net/'"
+      command: "echo 'https://kitsunehosting.net/'"
     - name: "CALLSIGN"
-      command: "echo 'Y0UR'"
+      command: "echo 'KW1FOX'"
 
 filters:
   - name: only_jlc_parts
