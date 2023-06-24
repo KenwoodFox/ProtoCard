@@ -823,7 +823,7 @@
       (net 14 "/SCK") (pinfunction "PB2") (pintype "bidirectional") (tstamp 8118571b-5206-4212-bf97-bf784c629bc1))
     (pad "8" smd rect (at 3.65 -1.905 225) (size 1.7 0.65) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "+5V") (pinfunction "VCC") (pintype "power_in") (tstamp 8c223155-28eb-4d0f-8997-6cef6ad206bf))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8W_5.3x5.3mm_P1.27mm.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
